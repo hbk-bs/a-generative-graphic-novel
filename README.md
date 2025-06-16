@@ -1,10 +1,3 @@
----
-id: tbd
-title: A Generative Graphic Novel
-description: Narratives in the Age of AI
----
-
-
 # A Generative Graphic Novel Briefing
 
 Narratives in the Age of AI
